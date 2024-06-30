@@ -1,4 +1,4 @@
-# Iakovleva Evelina        ![My photo](https://ibb.co/rc0t9wC)
+# Iakovleva Evelina        
 ## Junior Data Engineer
 ### Contact information
 **Phone: +7 999 6166854**
@@ -34,6 +34,6 @@ I have always considered myself a humanitarian. At school I was bad at mathemati
 ### Courses
 * Basic Data Analysis (Far Eastern Federal University) 6 month
 * Python Generation
-# Languages
+### Languages
 * Russian (mother tongue)
 * English (B1)
