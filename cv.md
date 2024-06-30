@@ -1,4 +1,4 @@
-# Iakovleva Evelina        [My photo](https://ibb.co/rc0t9wC)
+# Iakovleva Evelina        ![My photo](https://ibb.co/rc0t9wC)
 ## Junior Data Engineer
 ### Contact information
 **Phone: +7 999 6166854**
